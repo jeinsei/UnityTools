@@ -10,5 +10,10 @@
             <Attack>52</Attack>
             <Defense>43</Defense>
         </Monster>
+      <Monster name="Hydra">
+        <Health>42</Health>
+        <Attack>90</Attack>
+        <Defense>21</Defense>
+      </Monster>
     </Monsters>
 </MonsterCollection>
