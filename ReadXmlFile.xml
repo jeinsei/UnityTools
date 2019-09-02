@@ -1,0 +1,14 @@
+﻿<MonsterCollection>
+    <Monsters>
+        <Monster name="EarthDragon">
+            <Health>45</Health>
+            <Attack>49</Attack>
+            <Defense>49</Defense>
+        </Monster>
+        <Monster name="FireDragon">
+            <Health>39</Health>
+            <Attack>52</Attack>
+            <Defense>43</Defense>
+        </Monster>
+    </Monsters>
+</MonsterCollection>
