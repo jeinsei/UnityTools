@@ -20,9 +20,9 @@ public class UseJson : MonoBehaviour
         ReadText();
     }
 
-    private void ReadText()
+    private void ReadText() //Permet d'utiliser les données récupérer dans le JSON
     {
-        text.text = GetComponent<ReadJson>().textUrlJson;
+        text.text = GetComponent<ReadOnlineJson>().textUrlJson;
       //  text.text = readJson.textUrlJson;
 
     }
